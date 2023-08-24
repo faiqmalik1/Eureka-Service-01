@@ -1,1 +1,1 @@
-# Eureka-Service-01
+# eureka-service
